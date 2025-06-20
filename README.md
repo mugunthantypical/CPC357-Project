@@ -1,4 +1,4 @@
-Collecting workspace information# IoT Smart Garden Project
+# IoT Smart Garden Project
 
 ## Overview
 
